@@ -51,6 +51,8 @@ cd seu-repositorio
 # Caso seja um projeto com HTML/CSS puro
 # Basta abrir o arquivo index.html em seu navegador
 
+---
+
 [![Acesse o site](https://img.shields.io/badge/Acessar%20site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-leandrorc-1pj9530k6-leandro-ramos-cardosos-projects.vercel.app/)
 
 
