@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Banner do Portfólio" />
-</p>
-
 <h2 align="center">Desenvolvedor Front-end apaixonado por tecnologia e boas experiências digitais 🚀</h2>
 
 
@@ -53,9 +49,4 @@ cd seu-repositorio
 
 ---
 
-[![Acesse o site](https://img.shields.io/badge/Acessar%20site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-leandrorc-1pj9530k6-leandro-ramos-cardosos-projects.vercel.app/)
-
-
 Feito com ❤️ por [Leandro Ramos Cardoso](https://github.com/leandro-ramos-cardoso)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ramos-cardoso) [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/leandro-ramos-cardoso)
